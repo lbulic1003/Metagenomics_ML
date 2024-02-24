@@ -1,6 +1,7 @@
 # Application of Machine Learning in Metagenomics
 
 Contributors: Luka Bulić, Lucia Crvelin, Niko Kaštelan, Mirta Krajinović, Lucija Topolko, Marko Žagar
+
 Mentor: Assoc. prof. Mirjana Domazet-Lošo, PhD
 
 "Application of Machine Learning in Metagenomics" was an undergraduate machine learning project created at the Faculty of Electrical Engineering and Computing, University of Zagreb (course "Project R"). The project aimed to solve the issue of disease prediction based on the metagenomic findings in a large population of patients, using the tools of machine learning. The database used for model training and testing was made publicly available as part of the following study:
