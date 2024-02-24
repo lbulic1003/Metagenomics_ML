@@ -1,4 +1,4 @@
-# Application of Machine Learning in Metagenomics (Undergraduate project, 2023)
+# Application of Machine Learning in Metagenomics
 
 Contributors: Luka Bulić, Lucia Crvelin, Niko Kaštelan, Mirta Krajinović, Lucija Topolko, Marko Žagar
 Mentor: Assoc. prof. Mirjana Domazet-Lošo, PhD
